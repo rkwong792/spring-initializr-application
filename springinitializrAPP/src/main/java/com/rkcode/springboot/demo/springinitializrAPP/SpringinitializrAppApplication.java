@@ -8,6 +8,7 @@ public class SpringinitializrAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringinitializrAppApplication.class, args);
+		
 	}
 
 }
